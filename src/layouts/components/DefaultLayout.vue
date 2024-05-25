@@ -214,20 +214,6 @@ function selected(route: any, nav: NavLink) {
         <div class="px-4 text-sm pt-2 text-gray-400 pb-2 uppercase">
           {{ $t('module.sponsors') }}
         </div>
-        <a
-          href="https://dymension.xyz/"
-          target="_blank"
-          class="py-2 px-4 flex items-center cursor-pointer rounded-lg hover:bg-gray-100 dark:hover:bg-[#373f59]"
-        >
-          <img
-            src="https://pbs.twimg.com/profile_images/1663159896701820928/by0GLREA_400x400.jpg"
-            class="w-6 h-6 rounded-full mr-3"
-          />
-          <div
-            class="text-sm capitalize flex-1 text-gray-600 dark:text-gray-200"
-          >
-            Dymension
-          </div>
         </a>
             <a
           href="https://lavanet.xyz/"
