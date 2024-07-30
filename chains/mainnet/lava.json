@@ -2,13 +2,13 @@
     "chain_name": "lava",
     "api": [
         {
-            "address": "https://lava-api.coinhunterstr.com/", 
+            "address": "https://lava-api.coinhunterstr.com:443", 
             "provider": "CoinHunters"
         }
     ], 
     "rpc": [
         {
-            "address": "https://lava-rpc.coinhunterstr.com/", 
+            "address": "https://lava-rpc.coinhunterstr.com:443", 
             "provider": "CoinHunters"
         }
     ],
